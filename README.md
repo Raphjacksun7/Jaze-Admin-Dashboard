@@ -1,12 +1,12 @@
-<<<<<<< HEAD
-# React Admin Dashboard
-Basic Admin UI With Firebase
+
+# Jaze Admin Dashboard
+For manage Jaze Mobile App
 
 ![Screenshot](src/images/screenshot.jpg)
 
 ## Require step:
-- [Create a Firebase project for your app](https://firebase.google.com/docs/web/setup)
-- update your Firebase credentials in  `src/config/firebase.js`
+- [Link to the Firebase project ](https://console.firebase.google.com/u/1/project/jaze-appli/overview?)
+- You must log with Jaze-Dev Google Account and Make sure that the credential is update in  `src/config/firebase.js`
 
 ## Available Scripts
 
@@ -25,6 +25,7 @@ Basic Admin UI With Firebase
 - [Semantic UI React](https://react.semantic-ui.com)
 - [Recharts](http://recharts.org/#/en-US/)
 =======
+
 # Jaze-Admin-Dashboard
-React Web App
->>>>>>> cf47e507d0167dcb9568fa5017563dbcfe26bff1
+React Progessive Web App
+
