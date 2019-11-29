@@ -2,7 +2,11 @@
 # Jaze Admin Dashboard
 For manage Jaze Mobile App
 
-![Screenshot](src/images/screenshot.jpg)
+![Screenshot](src/images/screenshot.png)
+![Screenshot](src/images/screenshot-user.png)
+![Screenshot](src/images/screenshot-users-action.png)
+![Screenshot](src/images/screenshot-add-category.png)
+![Screenshot](src/images/screenshot-action.png)
 
 ## Require step:
 - [Link to the Firebase project ](https://console.firebase.google.com/u/1/project/jaze-appli/overview?)
