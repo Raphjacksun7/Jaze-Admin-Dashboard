@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React Admin Dashboard
 Basic Admin UI With Firebase
 
@@ -23,3 +24,7 @@ Basic Admin UI With Firebase
 - [Firebase](https://firebase.google.com/)
 - [Semantic UI React](https://react.semantic-ui.com)
 - [Recharts](http://recharts.org/#/en-US/)
+=======
+# Jaze-Admin-Dashboard
+React Web App
+>>>>>>> cf47e507d0167dcb9568fa5017563dbcfe26bff1
